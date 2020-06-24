@@ -7,3 +7,5 @@ Das ist eine Testbeschreibung eines Charakters zur Aufgabe 2. Das ist eine Testb
 * Stichpunkt 1
 * Stichpunkt 2
 * Stichpunkt 3
+
+> Test Zitat
